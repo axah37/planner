@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "291026339126",
+    "firebase_url": "https://planner-ff358-default-rtdb.firebaseio.com",
+    "project_id": "planner-ff358",
+    "storage_bucket": "planner-ff358.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291026339126:android:eb2606a97b5b7601869f97",
+        "android_client_info": {
+          "package_name": "com.lighthouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291026339126-59cov8bjrs0s745br7mv0gqa4hs50ece.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPut9mX4CJy_MxDpEQEOSbHdbys60c0K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291026339126-59cov8bjrs0s745br7mv0gqa4hs50ece.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
